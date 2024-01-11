@@ -1,7 +1,7 @@
 body {
     font-family: Courier New, Courier, monospace;
     color: #000;
-    background-image: url(../images/background.png);text-align: center;
+    background-image: url(./images/background.png);text-align: center;
     
 }
 
@@ -12,7 +12,7 @@ body {
 
 .box {
 
-    margin-top: url(../images/background.png);
+    margin-top: url(./images/background.png);
     line-height: 1. 2em;
     margin-right: 15px;
     margin-bottom: 25px;
@@ -37,7 +37,7 @@ body {
 }
 
 div {
-    margin-top: url(../images/background.png);
+    margin-top: url(./images/background.png);
 }
 
 .table {
